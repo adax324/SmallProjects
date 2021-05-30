@@ -14,4 +14,8 @@ public class RoomDemo {
     //Przy każdej próbie użycia obiektu powinnien wyświetlić się stosowny komunikat.
     //
     //Wskazane jest rozdzielić komunikację z graczem od serwisu odpowiedzialnego za resztę rozgrywki
+
+    public static void main(String[] args) {
+        ConsoleGame.start();
+    }
 }
